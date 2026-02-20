@@ -2,6 +2,9 @@
 
 一个简洁易用的 Windows 环境变量图形化编辑工具，使用 Python 和 tkinter 开发。
 
+<img width="1127" height="897" alt="image" src="https://github.com/user-attachments/assets/fef868ef-54b5-4a64-982e-d89fa86036f7" />
+
+
 ## 功能
 
 - 可视化编辑用户环境变量
